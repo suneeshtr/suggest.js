@@ -29,7 +29,7 @@ A library that generates a list of word suggestions from an input string.
 	matches = auto.suggest("xyz")
 	-> matches = null
 
-### Load new list into object ###
+### Load new list into an existing object ###
 	words = ["xyzabc", koala", "koangaroo", "teddy", "teddybear"]
 	auto.load(words)
 	matches = auto.suggest("xyz")
