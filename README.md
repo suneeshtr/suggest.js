@@ -3,6 +3,10 @@ suggest.js
 
 A library that generates a list of word suggestions from an input string.
 
+# Demo #
+
+### Try it out [here.](http://gsundeep.github.io/suggest.js/example.html) ###
+
 # Usage #
 
 ### Initialize ###
