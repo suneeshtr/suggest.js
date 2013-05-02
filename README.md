@@ -3,7 +3,7 @@ suggest.js
 
 A library that generates a list of word suggestions from an input string.
 
-# Example usage #
+# Usage #
 
 ### Initialize ###
 	var words = ["koala", "koangaroo", "teddy", "teddybear"]
